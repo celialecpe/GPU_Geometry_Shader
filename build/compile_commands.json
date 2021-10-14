@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/build",
+  "command": "/usr/bin/c++   -I../extern  -g   -g -Wall -Wextra -Wno-comment -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable -std=gnu++11 -o CMakeFiles/openGL_CPE.dir/src/camera.cpp.o -c /fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/camera.cpp",
+  "file": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/camera.cpp"
+},
+
+{
+  "directory": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/build",
+  "command": "/usr/bin/c++   -I../extern  -g   -g -Wall -Wextra -Wno-comment -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable -std=gnu++11 -o CMakeFiles/openGL_CPE.dir/src/glhelper.cpp.o -c /fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/glhelper.cpp",
+  "file": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/glhelper.cpp"
+},
+
+{
+  "directory": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/build",
+  "command": "/usr/bin/c++   -I../extern  -g   -g -Wall -Wextra -Wno-comment -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable -std=gnu++11 -o CMakeFiles/openGL_CPE.dir/src/main.cpp.o -c /fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/main.cpp",
+  "file": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/main.cpp"
+},
+
+{
+  "directory": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/build",
+  "command": "/usr/bin/c++   -I../extern  -g   -g -Wall -Wextra -Wno-comment -Wno-unused-parameter -Wno-unused-function -Wno-unused-variable -std=gnu++11 -o CMakeFiles/openGL_CPE.dir/src/mesh.cpp.o -c /fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/mesh.cpp",
+  "file": "/fs03/share/users/vincent.clavel/home/Bureau/5A/GPU_Geometry_Shader/src/mesh.cpp"
+}
+]

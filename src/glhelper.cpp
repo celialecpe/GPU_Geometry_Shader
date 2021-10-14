@@ -75,7 +75,7 @@ namespace glhelper
     glGetProgramiv(program_id, GL_LINK_STATUS, &success);
     if(!success)
     {
-      glGetShaderInfoLog(program_id, 128, nullptr, log);
+      glGetProgramInfoLog(program_id, 128, nullptr, log);
       std::cerr << "-------------------------\n";
       std::cerr << "Error linking program: \n" << log << std::endl;
       std::cerr << "-------------------------\n";
